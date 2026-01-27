@@ -1,6 +1,6 @@
 {
     "version": "5.4.0",
-    "name": "Winterl",
+    "name": "Winter",
     "main": "winter.py",
     "files": [
         "winter.py"
