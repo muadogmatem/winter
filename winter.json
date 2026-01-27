@@ -1,0 +1,14 @@
+{
+    "version": "5.4.0",
+    "name": "Winterl",
+    "main": "winter.py",
+    "files": [
+        "winter.py"
+    ],
+    "requirements": [
+        "requests",
+        "colorama",
+        "pillow"
+    ],
+    "changelog": "- Deo Can Biet\n- Deo Muon Noi"
+}
